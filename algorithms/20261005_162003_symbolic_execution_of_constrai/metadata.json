@@ -1,0 +1,13 @@
+{
+  "topic": "Symbolic Execution of Constrained Horn Clauses",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-10-05T16:20:03.627315+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "types.swift",
+    "engine.swift",
+    "main.swift"
+  ]
+}
