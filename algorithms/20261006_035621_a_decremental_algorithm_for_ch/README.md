@@ -1,12 +1,12 @@
 # A Decremental Algorithm for Checking the Possibility of Braess Paradox in Dynamic Nets
 
-A clean, dependency-free **Swift** implementation of **A Decremental Algorithm for Checking the Possibility of Braess Paradox in Dynamic Nets**, focused on predictable latency, strict memory layout, and deterministic execution.
+A clean, dependency-free **Swift** reference implementation of **A Decremental Algorithm for Checking the Possibility of Braess Paradox in Dynamic Nets**, focused on core algorithmic mechanics, clear memory layout, and test verification.
 
 ### Core Highlights
 * **Language & Standard**: Modern `Swift` standard library conventions.
 * **Architecture Pattern**: Designed for `Algorithmic Engineering` using `Standard Memory Primitives`.
-* **Runtime Overhead**: Contiguous memory layouts are favored over scattered heap allocations for optimal traversal speed.
-* **Concurrency & Safety**: Deterministic behavior across all execution cycles, resilient against asynchronous edge conditions.
+* **Runtime Overhead**: Contiguous memory layouts and standard collections are favored for straightforward iteration and access.
+* **Concurrency & Safety**: Execution behavior is validated against nominal workflows and boundary edge cases.
 
 ---
 
@@ -14,9 +14,9 @@ A clean, dependency-free **Swift** implementation of **A Decremental Algorithm f
 
 | Dimension | Bound |
 | :--- | :--- |
-| **Time (Best Case)** | `$O(1)$` |
-| **Time (Worst Case)** | `$O(N \log N)$` |
-| **Auxiliary Space** | `$O(N)$` |
+| **Time (Best Case)** | `O(1)` |
+| **Time (Worst Case)** | `O(N log N)` |
+| **Auxiliary Space** | `O(N)` |
 
 ---
 
@@ -30,4 +30,4 @@ swift main.swift
 
 ---
 
-<sub>Crafted with modern Swift standards • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)</sub>
+<sub>Standard Swift reference implementation • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)</sub>

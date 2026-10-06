@@ -1,6 +1,6 @@
 # One Global Beam Across Many GPUs: High-Throughput Beam Search at Billion-Record Frontier
 
-Production-ready implementation of the **One Global Beam Across Many GPUs: High-Throughput Beam Search at Billion-Record Frontier** algorithm in **Swift**, adhering to idiomatic design patterns, cache-friendly data layouts, and comprehensive test assertions.
+An in-memory reference implementation of **One Global Beam Across Many GPUs: High-Throughput Beam Search at Billion-Record Frontier** in **Swift**, adhering to standard library idioms, clean data structures, and assertion test suites.
 
 ---
 
@@ -9,16 +9,16 @@ Production-ready implementation of the **One Global Beam Across Many GPUs: High-
 This module organizes `One Global Beam Across Many GPUs: High-Throughput Beam Search at Billion-Record Frontier` into an isolated, self-contained unit:
 * **Domain Focus**: `Algorithmic Engineering`
 * **Primary Primitives**: `Standard Memory Primitives`
-* **Memory Strategy**: Buffer boundaries are strictly verified to prevent out-of-bounds access and memory leak hazards.
-* **Correctness Model**: Deterministic behavior across all execution cycles, resilient against asynchronous edge conditions.
+* **Memory Strategy**: Buffer boundaries and collection indices are explicitly validated to prevent out-of-bounds access.
+* **Correctness Model**: Execution behavior is validated against nominal workflows and boundary edge cases.
 
 ### Asymptotic Complexity
 
 | Metric | Bound | Characteristics |
 | :--- | :---: | :--- |
-| **Best Case Time** | `$O(1)$` | Optimized fast-path execution |
-| **Average / Worst Time** | `$O(N)$` | Deterministic upper bound for generalized workloads |
-| **Space Complexity** | `$O(N)$` | Strict bounds without unconstrained heap growth |
+| **Best Case Time** | `O(1)` | Optimized fast-path execution |
+| **Average / Worst Time** | `O(N)` | Deterministic upper bound for generalized workloads |
+| **Space Complexity** | `O(N)` | Strict bounds without unconstrained heap growth |
 
 ---
 
@@ -37,4 +37,4 @@ swift main.swift
 
 ---
 
-*Authored & verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Systems Engineering Portfolio*
+*Reference implementation verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

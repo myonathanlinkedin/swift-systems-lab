@@ -1,12 +1,12 @@
 # 52 Possibilities. 5 Cards. No Guessing. Heres the Algorithm.
 
-High-performance **52 Possibilities. 5 Cards. No Guessing. Heres the Algorithm.** primitive implemented in idiomatic **Swift**. Built from scratch using standard library constructs with zero external dependencies.
+Self-contained **52 Possibilities. 5 Cards. No Guessing. Heres the Algorithm.** algorithmic primitive written in idiomatic **Swift**. Built from scratch using standard library constructs with zero external dependencies.
 
 ### Core Highlights
 * **Language & Standard**: Modern `Swift` standard library conventions.
 * **Architecture Pattern**: Designed for `Algorithmic Engineering` using `Standard Memory Primitives`.
-* **Runtime Overhead**: Memory allocations are kept minimal to avoid allocator contention and preserve CPU cache locality.
-* **Concurrency & Safety**: Designed with reentrancy and thread isolation in mind, preventing data races under parallel workloads.
+* **Runtime Overhead**: Memory allocations are kept minimal to maintain clear data locality and predictable memory bounds.
+* **Concurrency & Safety**: Encapsulates state within isolated data structures, keeping logic self-contained.
 
 ---
 
@@ -14,9 +14,9 @@ High-performance **52 Possibilities. 5 Cards. No Guessing. Heres the Algorithm.*
 
 | Dimension | Bound |
 | :--- | :--- |
-| **Time (Best Case)** | `$O(1)$` |
-| **Time (Worst Case)** | `$O(N \log N)$` |
-| **Auxiliary Space** | `$O(N)$` |
+| **Time (Best Case)** | `O(1)` |
+| **Time (Worst Case)** | `O(N log N)` |
+| **Auxiliary Space** | `O(N)` |
 
 ---
 
@@ -30,4 +30,4 @@ swift main.swift
 
 ---
 
-<sub>Crafted with modern Swift standards • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)</sub>
+<sub>Standard Swift reference implementation • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)</sub>

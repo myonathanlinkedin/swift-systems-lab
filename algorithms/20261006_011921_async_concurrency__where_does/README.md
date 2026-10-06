@@ -1,18 +1,18 @@
 # Async Concurrency: Where does the scheduler live? in Swift
 
-A clean, dependency-free **Swift** implementation of **Async Concurrency: Where does the scheduler live?**, focused on predictable latency, strict memory layout, and deterministic execution.
+A clean, dependency-free **Swift** reference implementation of **Async Concurrency: Where does the scheduler live?**, focused on core algorithmic mechanics, clear memory layout, and test verification.
 
 ## Implementation Details
 
 * **Category**: `Algorithmic Engineering`
 * **Data Structure Foundation**: `Standard Memory Primitives`
-* **Allocation Pattern**: Buffer boundaries are strictly verified to prevent out-of-bounds access and memory leak hazards.
-* **Invariant Integrity**: Deterministic behavior across all execution cycles, resilient against asynchronous edge conditions.
+* **Allocation Pattern**: Buffer boundaries and collection indices are explicitly validated to prevent out-of-bounds access.
+* **Invariant Integrity**: Execution behavior is validated against nominal workflows and boundary edge cases.
 
 ## Performance Characteristics
 
-* **Time**: `$O(N)$` average, with `$O(1)$` best-case response under ideal conditions.
-* **Space**: `$O(N)$` memory usage.
+* **Time**: `O(N)` average, with `O(1)` best-case response under ideal conditions.
+* **Space**: `O(N)` memory usage.
 
 ## Test Harness
 
@@ -24,4 +24,4 @@ swift main.swift
 
 ---
 
-<sub>Crafted with modern Swift standards • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)</sub>
+<sub>Standard Swift reference implementation • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)</sub>
