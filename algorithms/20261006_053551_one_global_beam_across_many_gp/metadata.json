@@ -1,0 +1,12 @@
+{
+  "topic": "One Global Beam Across Many GPUs: High-Throughput Beam Search at Billion-Record Frontier",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-10-06T05:35:51.225444+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "core.swift",
+    "main.swift"
+  ]
+}
