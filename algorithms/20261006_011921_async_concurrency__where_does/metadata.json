@@ -1,0 +1,12 @@
+{
+  "topic": "Async Concurrency: Where does the scheduler live?",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-10-06T01:19:21.805236+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "core.swift",
+    "main.swift"
+  ]
+}
