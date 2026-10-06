@@ -2,7 +2,7 @@
 > Strict actor concurrency, memory-safe ARC primitives, and high-performance server architectures. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/swift-systems-lab/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-17%20Modules-blue?style=for-the-badge&logo=swift)](https://github.com/myonathanlinkedin/swift-systems-lab)
+[![Total Modules](https://img.shields.io/badge/Algorithms-18%20Modules-blue?style=for-the-badge&logo=swift)](https://github.com/myonathanlinkedin/swift-systems-lab)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/swift-systems-lab)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -30,6 +30,7 @@
 | 15 | **Custom Buddy Memory Allocation System** | swift | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_091534_custom_buddy_memory_allocation/types.swift) |
 | 16 | **Trie Prefix Tree for Auto-Completion with Frequency Ranking** | swift | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_105234_trie_prefix_tree_for_auto-comp/engine.swift) |
 | 17 | **Skip List Probabilistic Search and Insertion Engine** | swift | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_105641_skip_list_probabilistic_search/core.swift) |
+| 18 | **Updates to Full Disk Access in macOS** | swift | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_113228_updates_to_full_disk_access_in/core.swift) |
 
 ---
 
@@ -58,4 +59,4 @@ swift run
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 10:56 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 11:32 UTC*</sub>
