@@ -2,7 +2,7 @@
 > Strict actor concurrency, memory-safe ARC primitives, and high-performance server architectures. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/swift-systems-lab/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-24%20Modules-blue?style=for-the-badge&logo=swift)](https://github.com/myonathanlinkedin/swift-systems-lab)
+[![Total Modules](https://img.shields.io/badge/Algorithms-25%20Modules-blue?style=for-the-badge&logo=swift)](https://github.com/myonathanlinkedin/swift-systems-lab)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/swift-systems-lab)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -37,6 +37,7 @@
 | 22 | **6G NeXt - Towards 6G Split Computing Network Applications: Use Cases and Architecture** | swift | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_020954_6g_next_-_towards_6g_split_com/engine.swift) |
 | 23 | **B-Tree Multiway Balanced Search Tree Node Splitter** | swift | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_040512_b-tree_multiway_balanced_searc/types.swift) |
 | 24 | **Stop Guessing the Quality Slider Binary-Searching JPEG Quality for Exact File Sizes** | swift | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_041201_stop_guessing_the_quality_slid/core.swift) |
+| 25 | **json2dir: Directory archives, made human-readable** | swift | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_095214_json2dir__directory_archives/core.swift) |
 
 ---
 
@@ -65,4 +66,4 @@ swift run
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-07 04:12 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-07 09:52 UTC*</sub>

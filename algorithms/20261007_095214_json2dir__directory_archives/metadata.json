@@ -1,0 +1,12 @@
+{
+  "topic": "json2dir: Directory archives, made human-readable",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-10-07T09:52:14.629794+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "core.swift",
+    "main.swift"
+  ]
+}
