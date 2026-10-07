@@ -1,0 +1,13 @@
+{
+  "topic": "6G NeXt - Towards 6G Split Computing Network Applications: Use Cases and Architecture",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-10-07T02:09:54.791252+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "types.swift",
+    "engine.swift",
+    "main.swift"
+  ]
+}

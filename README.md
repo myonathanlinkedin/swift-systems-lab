@@ -2,7 +2,7 @@
 > Strict actor concurrency, memory-safe ARC primitives, and high-performance server architectures. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/swift-systems-lab/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-21%20Modules-blue?style=for-the-badge&logo=swift)](https://github.com/myonathanlinkedin/swift-systems-lab)
+[![Total Modules](https://img.shields.io/badge/Algorithms-22%20Modules-blue?style=for-the-badge&logo=swift)](https://github.com/myonathanlinkedin/swift-systems-lab)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/swift-systems-lab)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -34,6 +34,7 @@
 | 19 | **Tarjan Strongly Connected Components Search in Directed Graphs** | swift | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_165411_tarjan_strongly_connected_comp/core.swift) |
 | 20 | **Aho-Corasick Multi-Pattern String Searching Automaton** | swift | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_181634_aho-corasick_multi-pattern_str/core.swift) |
 | 21 | **Count-Min Sketch Heavy Hitters Frequency Estimator** | swift | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_003207_count-min_sketch_heavy_hitters/engine.swift) |
+| 22 | **6G NeXt - Towards 6G Split Computing Network Applications: Use Cases and Architecture** | swift | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_020954_6g_next_-_towards_6g_split_com/engine.swift) |
 
 ---
 
@@ -62,4 +63,4 @@ swift run
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-07 00:32 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-07 02:10 UTC*</sub>
