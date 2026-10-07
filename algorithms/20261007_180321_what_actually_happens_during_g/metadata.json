@@ -1,0 +1,13 @@
+{
+  "topic": "What Actually Happens During Garbage Collection: Tri-Color Marking, Write Barriers, and",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-10-07T18:03:21.441055+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "types.swift",
+    "engine.swift",
+    "main.swift"
+  ]
+}
