@@ -1,0 +1,12 @@
+{
+  "topic": "Stop Guessing the Quality Slider Binary-Searching JPEG Quality for Exact File Sizes",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-10-07T04:12:01.303350+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "core.swift",
+    "main.swift"
+  ]
+}
