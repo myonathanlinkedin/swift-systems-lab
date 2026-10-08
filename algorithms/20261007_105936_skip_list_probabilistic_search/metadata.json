@@ -1,0 +1,13 @@
+{
+  "topic": "Skip List Probabilistic Search and Insertion Engine",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-10-07T10:59:36.773722+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "types.swift",
+    "engine.swift",
+    "main.swift"
+  ]
+}
