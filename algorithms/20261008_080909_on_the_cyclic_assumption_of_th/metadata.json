@@ -1,0 +1,12 @@
+{
+  "topic": "On the Cyclic Assumption of the Cow-Path Search Algorithm",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-10-08T08:09:09.385903+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "core.swift",
+    "main.swift"
+  ]
+}
