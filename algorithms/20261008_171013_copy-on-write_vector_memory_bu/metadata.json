@@ -1,0 +1,13 @@
+{
+  "topic": "Copy-on-Write Vector Memory Buffer Management",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-10-08T17:10:13.002569+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "types.swift",
+    "engine.swift",
+    "main.swift"
+  ]
+}
