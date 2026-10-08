@@ -1,0 +1,13 @@
+{
+  "topic": "Min-Plus Convolution Lower Bounds via a Higher-Order BSG Theorem",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-10-08T07:36:21.105213+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "types.swift",
+    "engine.swift",
+    "main.swift"
+  ]
+}
