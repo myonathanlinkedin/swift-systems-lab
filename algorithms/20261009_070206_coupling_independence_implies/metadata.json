@@ -1,0 +1,12 @@
+{
+  "topic": "Coupling Independence Implies Zero-Freeness",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-10-09T07:02:06.540408+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "core.swift",
+    "main.swift"
+  ]
+}
