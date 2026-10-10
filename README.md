@@ -2,7 +2,7 @@
 > Strict actor concurrency, memory-safe ARC primitives, and high-performance server architectures. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/swift-systems-lab/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-19%20Modules-blue?style=for-the-badge&logo=swift)](https://github.com/myonathanlinkedin/swift-systems-lab)
+[![Total Modules](https://img.shields.io/badge/Algorithms-20%20Modules-blue?style=for-the-badge&logo=swift)](https://github.com/myonathanlinkedin/swift-systems-lab)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/swift-systems-lab)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -32,6 +32,7 @@
 | 17 | **Treap Randomized Binary Search Tree with Heap Priorities** | swift | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_152244_treap_randomized_binary_search/engine.swift) |
 | 18 | **Tarjan Strongly Connected Components Search in Directed Graphs** | swift | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_191302_tarjan_strongly_connected_comp/core.swift) |
 | 19 | **Aho-Corasick Multi-Pattern String Searching Automaton** | swift | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_230203_aho-corasick_multi-pattern_str/engine.swift) |
+| 20 | **Treap Randomized Binary Search Tree with Heap Priorities** | swift | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_000217_treap_randomized_binary_search/core.swift) |
 
 ---
 
@@ -60,4 +61,4 @@ swift run
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-09 23:02 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-10 00:02 UTC*</sub>
