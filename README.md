@@ -2,7 +2,7 @@
 > Strict actor concurrency, memory-safe ARC primitives, and high-performance server architectures. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/swift-systems-lab/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-25%20Modules-blue?style=for-the-badge&logo=swift)](https://github.com/myonathanlinkedin/swift-systems-lab)
+[![Total Modules](https://img.shields.io/badge/Algorithms-26%20Modules-blue?style=for-the-badge&logo=swift)](https://github.com/myonathanlinkedin/swift-systems-lab)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/swift-systems-lab)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -38,6 +38,7 @@
 | 23 | **B-Tree Multiway Balanced Search Tree Node Splitter** | swift | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_100213_b-tree_multiway_balanced_searc/core.swift) |
 | 24 | **Aho-Corasick Multi-Pattern String Searching Automaton** | swift | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_131303_aho-corasick_multi-pattern_str/core.swift) |
 | 25 | **Part 1: Introducing Filters and Probabilistic Searching** | swift | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_190442_part_1__introducing_filters_an/core.swift) |
+| 26 | **Treap Randomized Binary Search Tree with Heap Priorities** | swift | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_200443_treap_randomized_binary_search/core.swift) |
 
 ---
 
@@ -66,4 +67,4 @@ swift run
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-10 19:04 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-10 20:04 UTC*</sub>
