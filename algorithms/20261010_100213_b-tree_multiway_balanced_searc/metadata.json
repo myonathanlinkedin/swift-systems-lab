@@ -1,0 +1,12 @@
+{
+  "topic": "B-Tree Multiway Balanced Search Tree Node Splitter",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-10-10T10:02:13.481504+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "core.swift",
+    "main.swift"
+  ]
+}
