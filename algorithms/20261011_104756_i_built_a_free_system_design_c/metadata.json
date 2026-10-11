@@ -1,0 +1,12 @@
+{
+  "topic": "I built a free system design course where your architecture has to survive simulated",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-10-11T10:47:56.967684+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "core.swift",
+    "main.swift"
+  ]
+}
