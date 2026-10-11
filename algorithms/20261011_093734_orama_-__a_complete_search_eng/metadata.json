@@ -1,0 +1,13 @@
+{
+  "topic": "Orama - \ud83c\udf0c A complete search engine and RAG pipeline in your browser, server or edge",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-10-11T09:37:34.756318+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "types.swift",
+    "engine.swift",
+    "main.swift"
+  ]
+}
