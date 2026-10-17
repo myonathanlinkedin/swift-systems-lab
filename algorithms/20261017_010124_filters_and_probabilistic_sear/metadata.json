@@ -1,0 +1,12 @@
+{
+  "topic": "Filters and Probabilistic Searching",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-10-17T01:01:24.884128+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "core.swift",
+    "main.swift"
+  ]
+}
