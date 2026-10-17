@@ -1,0 +1,13 @@
+{
+  "topic": "Aho-Corasick Multi-Pattern String Searching Automaton",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-10-09T23:02:03.286486+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "types.swift",
+    "engine.swift",
+    "main.swift"
+  ]
+}

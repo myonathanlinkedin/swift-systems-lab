@@ -1,0 +1,12 @@
+{
+  "topic": "Tarjan Strongly Connected Components Search in Directed Graphs",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-10-06T16:54:11.102726+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "core.swift",
+    "main.swift"
+  ]
+}
