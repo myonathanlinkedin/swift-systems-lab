@@ -1,0 +1,12 @@
+{
+  "topic": "Treap Randomized Binary Search Tree with Heap Priorities",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-10-20T01:01:31.526662+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "core.swift",
+    "main.swift"
+  ]
+}
