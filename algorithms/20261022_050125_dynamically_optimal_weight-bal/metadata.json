@@ -1,0 +1,12 @@
+{
+  "topic": "Dynamically optimal weight-balanced binary search trees",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-10-22T05:01:25.993232+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "core.swift",
+    "main.swift"
+  ]
+}
