@@ -1,0 +1,12 @@
+{
+  "topic": "Animating Algorithms in SwiftUI: A Step-Recorder Pattern for Visualising Sorts, Searches",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-10-24T09:01:27.782727+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "core.swift",
+    "main.swift"
+  ]
+}
