@@ -1,0 +1,13 @@
+{
+  "topic": "I shut down the L train in a FalkorDB graph: 23,445 riders, one min cut, and a fix tested",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-10-25T19:01:39.844513+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "types.swift",
+    "engine.swift",
+    "main.swift"
+  ]
+}
