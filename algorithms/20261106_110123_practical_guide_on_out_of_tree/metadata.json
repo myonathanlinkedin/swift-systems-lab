@@ -1,0 +1,13 @@
+{
+  "topic": "Practical guide on out of tree mitigations on Chronos-Structure",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-11-06T11:01:23.318854+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "types.swift",
+    "engine.swift",
+    "main.swift"
+  ]
+}
