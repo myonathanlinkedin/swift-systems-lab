@@ -1,0 +1,12 @@
+{
+  "topic": "Branching Beyond Leonardo: The Evolution of Tree Architecture Theory",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-11-09T05:02:17.654916+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "core.swift",
+    "main.swift"
+  ]
+}
