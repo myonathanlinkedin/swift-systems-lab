@@ -1,0 +1,12 @@
+{
+  "topic": "Design Typeahead Search Step by Step: Why the Trie Stores the Top 10 at Every Node",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-11-10T02:01:22.206649+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "core.swift",
+    "main.swift"
+  ]
+}
