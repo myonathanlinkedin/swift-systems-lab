@@ -1,0 +1,12 @@
+{
+  "topic": "Exact-Quota Facility Location: A Transfer Framework and Three Approximation Guarantees",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-11-16T23:01:31.237221+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "core.swift",
+    "main.swift"
+  ]
+}
