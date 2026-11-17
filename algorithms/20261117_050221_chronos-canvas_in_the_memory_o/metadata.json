@@ -1,0 +1,13 @@
+{
+  "topic": "Chronos-Canvas in the memory of other programs",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-11-17T05:02:21.855666+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "types.swift",
+    "engine.swift",
+    "main.swift"
+  ]
+}
