@@ -1,0 +1,12 @@
+{
+  "topic": "Lakegres: Vector search on existing Open/Hudi/Iceberg tables",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-11-18T20:01:36.802955+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "core.swift",
+    "main.swift"
+  ]
+}
