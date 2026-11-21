@@ -1,0 +1,11 @@
+{
+  "topic": "Efficient Classical Algorithms for Ground Energy Estimation of Fermions with",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-11-21T13:02:51.965757+00:00",
+  "source_file": "core.swift",
+  "files": [
+    "core.swift"
+  ]
+}
