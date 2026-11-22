@@ -1,0 +1,13 @@
+{
+  "topic": "Safe Optimistic Lock Coupling",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-11-22T05:02:04.045021+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "types.swift",
+    "engine.swift",
+    "main.swift"
+  ]
+}
