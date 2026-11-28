@@ -1,0 +1,13 @@
+{
+  "topic": "Runge-Kutta 4th Order Numerical ODE Integrator",
+  "language": "Swift",
+  "extension": ".swift",
+  "category": "swift",
+  "timestamp_utc": "2026-11-28T01:02:55.169935+00:00",
+  "source_file": "main.swift",
+  "files": [
+    "types.swift",
+    "engine.swift",
+    "main.swift"
+  ]
+}
